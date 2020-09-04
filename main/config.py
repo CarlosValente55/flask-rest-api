@@ -15,7 +15,6 @@ class DevelopmentConfig(Config):
     # uncomment the line below to use postgres
     # SQLALCHEMY_DATABASE_URI = postgres_local_base
     DEBUG = True
-    MONGO_DATABASE_URI = "mongodb+srv://users_admin:Benfika55@cluster0-vhmet.mongodb.net/test?retryWrites=true&w=majority"
     MONGO_TRACK_MODIFICATIONS = False
 
 
