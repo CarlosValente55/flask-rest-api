@@ -1,1 +1,2 @@
 # flask-rest-api
+This is a personal project and that is why I don't have a ReadME file structured. You also won't be able to run the project because I have hidded database connection allong with the credentials.
